@@ -11,6 +11,8 @@ description: Stuff
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/CirrusClouds/CirrusClouds.github.io/master/images/7273eac2c6bbca2c175a6debd561a7d1.jpg
 
+theme: minima
+
 #
 # Flags below are optional
 #
